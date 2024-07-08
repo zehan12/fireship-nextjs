@@ -1,2 +1,2 @@
-learn next from fireship
+learn next from fireship.io
 
